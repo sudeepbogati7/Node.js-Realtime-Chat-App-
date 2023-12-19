@@ -1,0 +1,17 @@
+{
+  "name": "realtime-chat-app",
+  "version": "1.0.0",
+  "description": "This is the realtime chat app with more than one chat rooms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudeep Bogati",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "nodemon": "^3.0.2",
+    "socket.io": "^4.7.2"
+  }
+}
