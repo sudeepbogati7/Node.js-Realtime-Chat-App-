@@ -4,10 +4,6 @@
 
 **Modules used** : `socket.io`
 
-```diff
-- haven't deployed yet :( 
-```
-
 
 ## Follow the following steps (make sure you have node.js installed in your machine ): 
 
